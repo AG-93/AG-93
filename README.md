@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @AG-93
+- 👋 Hi there, I’m Apechhya
 - I’m interested in building interactive websites
 - 🌱 I’m currently learning three.js 
 - I’m looking to collaborate with 3D model artists.
