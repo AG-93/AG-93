@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AG-93
-- 👀 I’m interested in creative coding
-- 🌱 I’m currently learning python + web dev
-- 💞️ I’m looking to collaborate on not sure yet
+- 👋 Hi there, I’m @AG-93
+- I’m interested in building interactive websites
+- 🌱 I’m currently learning three.js 
+- I’m looking to collaborate with 3D model artists.
 - 📫 apechhya.gurung@gmail.com
 
 <!---
